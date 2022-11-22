@@ -1,3 +1,4 @@
+import './Projects.css';
 import project1 from '../../assets/project-1.png';
 import project2 from '../../assets/project-2.png';
 

@@ -1,0 +1,16 @@
+.card-img-top {
+    transition-duration: 0.3s;
+}
+
+.zoom {
+    overflow: hidden;
+}
+
+.zoom .card-img-top {
+    object-fit: cover;
+}
+
+.zoom .card-img-top:hover {
+    transform: scale(1.04);
+    transition-duration: 0.3s;
+}

@@ -1,4 +1,5 @@
 import banner from '../../assets/banner.jpg'
+import './Hero.css'
 
 export default function Hero() {
     return (

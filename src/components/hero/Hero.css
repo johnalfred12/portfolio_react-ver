@@ -1,5 +1,22 @@
-#heroSection,
-#experienceSection,
-#projects {
-    padding: 6em 0 6.5em;
-}
+.social-icons .social-icon {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.7rem;
+    width: 3.7rem;
+    background-color: #198686;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.7rem;
+    margin-right: 1.5rem;
+  }
+  
+  .social-icons .social-icon:last-child {
+    margin-right: 0;
+  }
+  
+  .social-icons .social-icon:hover {
+    background-color: #8cb836;
+    transition: 0.25s;
+  }
